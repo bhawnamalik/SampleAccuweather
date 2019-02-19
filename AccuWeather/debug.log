@@ -1,0 +1,12 @@
+[0212/151140.486:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.491:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.496:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.497:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.498:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.499:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.500:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.500:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.501:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.573:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.574:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0212/151140.574:ERROR:exception_snapshot_win.cc(88)] thread ID 18504 not found in process

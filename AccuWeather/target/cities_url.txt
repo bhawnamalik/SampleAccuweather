@@ -1,0 +1,2 @@
+1 : Hyderabad, TG, IN	:	https://www.accuweather.com/en/in/hyderabad/202190/february-weather/202190?monyr=2/1/2019&view=table
+2 : Mumbai, MH, IN	:	https://www.accuweather.com/en/in/mumbai/204842/february-weather/204842?monyr=2/1/2019&view=table
